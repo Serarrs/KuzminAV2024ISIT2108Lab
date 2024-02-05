@@ -1,4 +1,4 @@
 package tech.reliab.course.kuzmin.bank.entity;
 
-public class BankOffice {
+public class CreditAccount {
 }

@@ -1,4 +1,4 @@
 package tech.reliab.course.kuzmin.bank.service;
 
-public interface AtmService {
+public interface BankOfficeService {
 }

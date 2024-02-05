@@ -1,2 +1,4 @@
-package tech.reliab.course.kuzmin.bank.service.impl;public interface AtmService {
+package tech.reliab.course.kuzmin.bank.service;
+
+public interface AtmService {
 }

@@ -1,2 +1,4 @@
-package tech.reliab.course.kuzmin.bank.service.impl;public class CreditAccountServiceImpl {
+package tech.reliab.course.kuzmin.bank.service.impl;
+
+public class CreditAccountServiceImpl {
 }
